@@ -9,7 +9,7 @@
 
 # Evolucionando: MÁS CERCA TUYO
 
-_Get started using GitHub in less than an hour._
+Un servicio del hogar más cerca tuyo.
 
 </header>
 
