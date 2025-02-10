@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Evolucionando: MÁS CERCA TUYO
 
 _Get started using GitHub in less than an hour._
 
@@ -21,43 +21,36 @@ _Get started using GitHub in less than an hour._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a branch
+## ANTECEDENTES
 
-_Welcome to "Introduction to GitHub"! :wave:_
+En muchas comunidades, la oferta y demanda de servicios para el hogar, como reparaciones, mantenimiento, limpieza y asistencia técnica, suelen estar dispersas y carecen de una plataforma que centralice estas necesidades.
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+Los profesionales locales, tanto formales como informales, enfrentan dificultades para visibilizar sus habilidades y acceder a oportunidades laborales cercanas. Por otro lado, las familias necesitan soluciones rápidas, accesibles y confiables para resolver problemas domésticos, pero a menudo no tienen acceso a una red local de confianza.
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+Este escenario crea una brecha significativa entre quienes necesitan servicios y quienes los ofrecen, dificultando la generación de oportunidades económicas locales y el acceso eficiente a servicios esenciales.
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+Aquí te presento la solución "Más Cerca Tuyo" es una webapp diseñada para facilitar la conexión entre clientes y trabajadores del sector de servicios para el hogar dentro de una misma localidad. La plataforma permite a los usuarios encontrar y solicitar servicios esenciales de manera rápida y eficiente, al tiempo que brinda mayor visibilidad a los trabajadores, impulsando sus oportunidades laborales a nivel local. 
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+## PRESENTACIÓN PROBLEMÁTICA
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+Durante la creación del prototipo de interfaz de usuario, es perjudicial para la comprensión del mismo, la falta de texto de relleno real (ya que se tiende a colocar lorem ipsum) o la ausencia de imágenes ejemplificadoras del tema que se está abordando. Esto impacta significativamente en alcanzar una experiencia de navegación más clara, inmersiva y más cercana a la realidad por parte no sólo del público objetivo, durante la realización de pruebas de usabilidad y testeos, sino que también favorece a los mismos diseñadores, desarrolladores y QA tester, ya que entrega una visión más concreta de cómo se visualizará la aplicación web.
 
-![profile-readme-example](/images/profile-readme-example.png)
+Por ello, es importante agilizar este proceso de creación de contenido escrito y visual, de tipo ejemplificador sobre un tema, debido a que es indispensable para la comprensión, ya que por falta de tiempo se tiende a dejar está actividad pendiente, “por si queda algo de tiempo”, dicen los diseñadores. Y también favorecerá mucho poder agilizar procesos de marketing, como la creación de contenido promocional sobre la webapp para las redes sociales.
 
-### :keyboard: Activity: Your first branch
+## PROPUESTA DE SOLUCIÓN
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+Generar un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", que complementen y optimizen la interfaz de usuario, mejorando la experiencia de interacción y su desarrollo.
 
-   ![code-tab](/images/code-tab.png)
+## JUSTIFICACIÓN DE VIALIDAD DEL PROYECTO
+Para lograrlo se plantearon los siguientes objetivos:
+- Redactar un mensaje de bienvenida atractivo para la webapp.
+- Crear mensajes para indicaciones, notificaciones, decisiones, confirmaciones o para cualquier otro tipo de interacción que requiere ser comprendido por parte del usuario.
+- Incluir imágenes o ilustraciones del contexto de uso de la webapp, que den cuenta de la conexión entre trabajadores y clientes.
+Generar contenido promocional en las redes sobre la webapp “Más Cerca Tuyo”
 
-3. Click on the **main** branch drop-down.
-
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
-
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+Procesamiento de texto: Utilizar GPT4o para generar un mensaje de bienvenida y otros mensajes que favorezcan la comprensión y la experiencia del usuario al navegar por la plataforma. Un UX writing más elaborado, comportando el antes y el después y testeando con pruebas de usabilidad.
+Generación de imágenes o ilustraciones: utilizar Dream Lab o Dall-e para convertir descripciones en imágenes.
+Utilizar google colab para generar contenido promocional en redes sociales.
 
 <footer>
 
