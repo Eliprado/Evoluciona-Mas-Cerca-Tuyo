@@ -9,7 +9,7 @@ I. INTRODUCCIÓN
 
 # Evolucionando: MÁS CERCA TUYO
 
-Un servicio del hogar más cerca tuyo.
+*Un servicio del hogar más cerca tuyo.*
 
 </header>
 
@@ -76,7 +76,7 @@ Prompts para la intefaz UI
 - "¿Qué otras frases predeterminadas pueden aparecer accesibles de clikear durante la conversación?"
 - "¿Qué otras frases predeterminadas pueden aparecer accesibles de clikear para abordar el soporte técnico: opción de reportar problemas técnicos o disputas y la programación de disponibilidad: calendario visual para gestionar días de trabajo y horarios?"
 
-*10* Mensajes de testimonios de la comunidad
+10. Mensajes de testimonios de la comunidad
 - "Genera opiniones sobre la satisfacción del servicio recibido y lo fácil e intuitivo que resultó el uso de la plataforma "Más Cerca Tuyo".
     
   -Con Meta:
