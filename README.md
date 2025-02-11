@@ -90,7 +90,7 @@ El proyecto "Más Cerca Tuyo" está muy avanzado, asi que ahora implementaría l
 II. OBJETIVOS
 🎯 Redactar un mensaje de bienvenida atractivo para la webapp.
 🎯 Crear mensajes para indicaciones, notificaciones, decisiones, confirmaciones o para cualquier otro tipo de interacción que requiere ser comprendido por parte del usuario.
-🎯 Incluir imágenes o ilustraciones del contexto de uso de la webapp, que den cuenta de la conexión entre trabajadores y clientes.(ver carpeta de imágenes)
+🎯 Incluir imágenes o ilustraciones del contexto de uso de la webapp, que den cuenta de la conexión entre trabajadores y clientes.
 🎯 Generar contenido promocional en las redes sobre la webapp “Más Cerca Tuyo” 
 
 III. METODOLOGÍA
