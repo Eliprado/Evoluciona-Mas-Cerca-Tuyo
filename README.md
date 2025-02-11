@@ -120,7 +120,7 @@ IV. HERRAMIENTAS Y TECNOLOGÍAS
 
 3- Además, de tomar el historial de referencia cuando sea conveniente para guiar de manera más efectiva las respuestas de la IA.
 
-4- En google.colab generar contenido para las redes sociales, utilizando el modelo gpt-4o, con un máximo de tokens=800 y una temperatura de 0.8
+4- En google.colab generar contenido para las redes sociales, utilizando el modelo gpt-4o, con un máximo de tokens=800 y una temperatura de 0.7
 
 V. IMPLEMENTACIÓN
 
