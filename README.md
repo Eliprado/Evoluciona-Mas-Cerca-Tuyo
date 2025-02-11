@@ -91,14 +91,21 @@ El proyecto "Más Cerca Tuyo" está muy avanzado, asi que ahora implementaría l
 
 II. OBJETIVOS
 
+
 -🎯 Redactar un mensaje de bienvenida atractivo para la webapp.
+
 -🎯 Crear mensajes para indicaciones, notificaciones, decisiones, confirmaciones o para cualquier otro tipo de interacción que requiere ser comprendido por parte del usuario.
+
 -🎯 Incluir imágenes o ilustraciones del contexto de uso de la webapp, que den cuenta de la conexión entre trabajadores y clientes.
+
 -🎯 Generar contenido promocional en las redes sobre la webapp “Más Cerca Tuyo” 
 
 III. METODOLOGÍA
+
 -🔹Procesamiento de texto: Utilizar GPT4o para generar un mensaje de bienvenida y otros mensajes que favorezcan la comprensión y la experiencia del usuario al navegar por la plataforma. Un UX writing más elaborado.
+
 -🔹Generación de imágenes: utilizar meta.ai para generar imágenes del contexto de uso de la webapp.
+
 -🔹Utilizar google colab para generar contenido promocional en redes sociales.
 
 IV. HERRAMIENTAS Y TECNOLOGÍAS
