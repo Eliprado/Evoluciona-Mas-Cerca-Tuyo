@@ -39,54 +39,55 @@ Por ello, es importante agilizar este proceso de creación de contenido escrito 
 
 ## PROPUESTA DE SOLUCIÓN
 
-- **Generar un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", que complementen y optimizen la interfaz de usuario, mejorando la experiencia de interacción y su desarrollo.
+- Generar un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", que complementen y optimizen la interfaz de usuario, mejorando la experiencia de interacción y su desarrollo.
 
 Prompts para la intefaz UI
    -Con Chatgpt:
    
 1. Generación de contenido
-- **"Redacta un mensaje de bienvenida atractivo para la plataforma "Más Cerca Tuyo", que conecta servicios locales con clientes. Menciona la facilidad de uso, proximidad y el impacto en la comunidad."
-- **"Genera contenido promocional y de valor para enriquecer la experiencia del usuario en la plataforma"
-- **"Genera contenido informativo sobre quienes somos, visión y misión de "Más Cerca Tuyo"
+- "Redacta un mensaje de bienvenida atractivo para la plataforma "Más Cerca Tuyo", que conecta servicios locales con clientes. Menciona la facilidad de uso, proximidad y el impacto en la comunidad."
+- "Genera contenido promocional y de valor para enriquecer la experiencia del usuario en la plataforma"
+- "Genera contenido informativo sobre quienes somos, visión y misión de "Más Cerca Tuyo"
   
 2. Notificaciones automáticas
-- **"Genera un mensaje de notificación para informar a los usuarios que un trabajador respondió a su solicitud de servicio."
+- "Genera un mensaje de notificación para informar a los usuarios que un trabajador respondió a su solicitud de servicio."
 
 3. Sistema de registro y autenticación
-- **"Crea un flujo de registro y autenticación que sea fácil de seguir y no requiera demasiados pasos."
+- "Crea un flujo de registro y autenticación que sea fácil de seguir y no requiera demasiados pasos."
 
 4. Para guiar al usuario en la búsqueda
-- **"Crea un texto para la barra de búsqueda de una plataforma de servicios locales, incentivando a los usuarios a buscar lo que necesitan. Usa un tono amigable y breve."
-- **"Genera sugerencias para búsquedas populares en una plataforma de servicios locales. Usa un tono atractivo."
+- "Crea un texto para la barra de búsqueda de una plataforma de servicios locales, incentivando a los usuarios a buscar lo que necesitan. Usa un tono amigable y breve."
+- "Genera sugerencias para búsquedas populares en una plataforma de servicios locales. Usa un tono atractivo."
   
 5. Mensaje para resultados de búsqueda
-- **"Redacta un mensaje para mostrar los resultados de búsqueda en una plataforma de servicios locales. Si no hay resultados, ofrece alternativas de acción."
+- "Redacta un mensaje para mostrar los resultados de búsqueda en una plataforma de servicios locales. Si no hay resultados, ofrece alternativas de acción."
 
 6. Instrucciones para filtros
-- **"Escribe una descripción para una sección de filtros en una aplicación de búsqueda de servicios. Menciona filtros como distancia, valoración y disponibilidad."
+- "Escribe una descripción para una sección de filtros en una aplicación de búsqueda de servicios. Menciona filtros como distancia, valoración y disponibilidad."
 
 7. Comunicación al usuario en tiempo real de espera
-- **"Escribe un mensaje para mostrar mientras se cargan los resultados de búsqueda en una plataforma de servicios locales."
+- "Escribe un mensaje para mostrar mientras se cargan los resultados de búsqueda en una plataforma de servicios locales."
 
 8. Personalización basada en su geolocalización
-- **"Redacta un mensaje que informe al usuario sobre la búsqueda de servicios cerca de su ubicación, destacando la cercanía."
+- "Redacta un mensaje que informe al usuario sobre la búsqueda de servicios cerca de su ubicación, destacando la cercanía."
 
 9. Mensajes predeterminados para la conversación del chat
-- **"El cliente puede seleccionar el chat directo con el prestador de servicio para su hogar, para coordinar detalles, antes de contratarlo. ¿Qué me recomiendas como mensajes predeterminados para que un prestador y un solicitante puedan para iniciar una conversación?"
-- **"¿Qué otras frases predeterminadas pueden aparecer accesibles de clikear durante la conversación?"
-- **"¿Qué otras frases predeterminadas pueden aparecer accesibles de clikear para abordar el soporte técnico: opción de reportar problemas técnicos o disputas y la programación de disponibilidad: calendario visual para gestionar días de trabajo y horarios?"
+- "El cliente puede seleccionar el chat directo con el prestador de servicio para su hogar, para coordinar detalles, antes de contratarlo. ¿Qué me recomiendas como mensajes predeterminados para que un prestador y un solicitante puedan para iniciar una conversación?"
+- "¿Qué otras frases predeterminadas pueden aparecer accesibles de clikear durante la conversación?"
+- "¿Qué otras frases predeterminadas pueden aparecer accesibles de clikear para abordar el soporte técnico: opción de reportar problemas técnicos o disputas y la programación de disponibilidad: calendario visual para gestionar días de trabajo y horarios?"
 
-10. Mensajes de testimonios de la comunidad
-- **"Genera opiniones sobre la satisfacción del servicio recibido y lo fácil e intuitivo que resultó el uso de la plataforma "Más Cerca Tuyo".
+*10.* Mensajes de testimonios de la comunidad
+- "Genera opiniones sobre la satisfacción del servicio recibido y lo fácil e intuitivo que resultó el uso de la plataforma "Más Cerca Tuyo".
     
   -Con Meta:
-- **"Imaginen a Camila, quién ofrece servicio de limpieza y aseo en casas particulares"
-- **"Andrea tiene hijos pequeños y tiene su casa desordenada"
-- **"Imagina un electricista realizando su trabajo en un hogar, y utiliza la aplicación Más Cerca Tuyo, el cual destaca por un mapa geolocalizador", continuación - **"podría generarlo en un entorno más hogareño"
-- **"Imagina a un instalador de aire acondicionado en un entorno hogareño, utilizando una aplicación que se caracteriza por un mapa geolocalizador"
+- "Imaginen a Camila, quién ofrece servicio de limpieza y aseo en casas particulares"
+- "Andrea tiene hijos pequeños y tiene su casa desordenada"
+- "Imagina un electricista realizando su trabajo en un hogar, y utiliza la aplicación Más Cerca Tuyo, el cual destaca por un mapa geolocalizador", continuación - "podría generarlo en un entorno más hogareño"
+- "Imagina a un instalador de aire acondicionado en un entorno hogareño, utilizando una aplicación que se caracteriza por un mapa geolocalizador"
 
 ## JUSTIFICACIÓN DE VIALIDAD DEL PROYECTO
-El proyecto "Más Cerca Tuyo" está muy avanzado, asi que ahora implementaría las mejoras en UX writing y ejemplos de casos de uso a nivel escrito y visual, apoyándome con la IA,  
+El proyecto "Más Cerca Tuyo" está muy avanzado, asi que ahora implementaría las mejoras en UX writing y ejemplos de casos de uso a nivel escrito y visual, apoyándome con la IA, 
+
 II. OBJETIVOS
 🎯 Redactar un mensaje de bienvenida atractivo para la webapp.
 🎯 Crear mensajes para indicaciones, notificaciones, decisiones, confirmaciones o para cualquier otro tipo de interacción que requiere ser comprendido por parte del usuario.
