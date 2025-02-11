@@ -86,7 +86,7 @@ Para la intefaz UI
 - "Imagina un electricista realizando su trabajo en un hogar, y utiliza la aplicación Más Cerca Tuyo, el cual destaca por un mapa geolocalizador", continuación - "podría generarlo en un entorno más hogareño"
 - "Imagina a un instalador de aire acondicionado en un entorno hogareño, utilizando una aplicación que se caracteriza por un mapa geolocalizador"
 
-## JUSTIFICACIÓN DE VIALIDAD DEL PROYECTO
+## JUSTIFICACIÓN DE VIABILIDAD DEL PROYECTO
 El proyecto "Más Cerca Tuyo" está muy avanzado, asi que ahora implementaría las mejoras en UX writing y ejemplos de casos de uso a nivel escrito y visual, apoyándome con la IA, 
 
 II. OBJETIVOS
