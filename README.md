@@ -42,6 +42,7 @@ Por ello, es importante agilizar este proceso de creación de contenido escrito 
 - Generar un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", que complementen y optimizen la interfaz de usuario, mejorando la experiencia de interacción y su desarrollo.
 
 Para la intefaz UI
+   
    -Con Chatgpt:
    
 1. Generación de contenido
