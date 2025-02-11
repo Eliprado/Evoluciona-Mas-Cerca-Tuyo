@@ -92,29 +92,35 @@ El proyecto "Más Cerca Tuyo" está muy avanzado, asi que ahora implementaría l
 II. OBJETIVOS
 
 
--🎯 Redactar un mensaje de bienvenida atractivo para la webapp.
+🎯 Redactar un mensaje de bienvenida atractivo para la webapp.
 
--🎯 Crear mensajes para indicaciones, notificaciones, decisiones, confirmaciones o para cualquier otro tipo de interacción que requiere ser comprendido por parte del usuario.
+🎯 Crear mensajes para indicaciones, notificaciones, decisiones, confirmaciones o para cualquier otro tipo de interacción que requiere ser comprendido por parte del usuario.
 
--🎯 Incluir imágenes o ilustraciones del contexto de uso de la webapp, que den cuenta de la conexión entre trabajadores y clientes.
+🎯 Incluir imágenes o ilustraciones del contexto de uso de la webapp, que den cuenta de la conexión entre trabajadores y clientes.
 
--🎯 Generar contenido promocional en las redes sobre la webapp “Más Cerca Tuyo” 
+🎯 Generar contenido promocional en las redes sobre la webapp “Más Cerca Tuyo” 
 
 III. METODOLOGÍA
 
--🔹Procesamiento de texto: Utilizar GPT4o para generar un mensaje de bienvenida y otros mensajes que favorezcan la comprensión y la experiencia del usuario al navegar por la plataforma. Un UX writing más elaborado.
+🔹Procesamiento de texto: Utilizar GPT4o para generar un mensaje de bienvenida y otros mensajes que favorezcan la comprensión y la experiencia del usuario al navegar por la plataforma. Un UX writing más elaborado.
 
--🔹Generación de imágenes: utilizar meta.ai para generar imágenes del contexto de uso de la webapp.
+🔹Generación de imágenes: utilizar meta.ai para generar imágenes del contexto de uso de la webapp.
 
--🔹Utilizar google colab para generar contenido promocional en redes sociales.
+🔹Utilizar google colab para generar contenido promocional en redes sociales.
 
 IV. HERRAMIENTAS Y TECNOLOGÍAS
--🛠️Las herramientas son: Chatgpt, meta.ai y google.colab
--🔧Técnicas utilizadas:
+
+🛠️Las herramientas son: Chatgpt, meta.ai y google.colab
+
+🔧Técnicas utilizadas:
+
 1- Dar contexto ej:"Hola, soy diseñadora UX/UI y estoy realizando una propuesta de proyecto llamada "Más cerca tuyo", que hace referencia a una red social para encontrar, visibilizar y conectar con el servicio para tu hogar que necesites de manera rápida y en tu propia localidad..."
+
 2- Luego, utilizar la técnica de One shoot prompting, entregándole un ejemplo para guiar lo que necesito que me responda.
+
 3- Además, de tomar el historial de referencia cuando sea conveniente para guiar de manera más efectiva las respuestas de la IA.
-3- En google.colab generar contenido para las redes sociales, utilizando el modelo gpt-4o, con un máximo de tokens=800 y una temperatura de 0.8
+
+4- En google.colab generar contenido para las redes sociales, utilizando el modelo gpt-4o, con un máximo de tokens=800 y una temperatura de 0.8
 
 V. IMPLEMENTACIÓN
 
