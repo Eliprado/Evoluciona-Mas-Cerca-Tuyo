@@ -89,9 +89,14 @@ Para la intefaz UI
 ## JUSTIFICACIÓN DE VIABILIDAD DEL PROYECTO
 El proyecto "Más Cerca Tuyo" está muy avanzado, asi que ahora implementaría las mejoras en UX writing y ejemplos de casos de uso a nivel escrito y visual, apoyándome con la IA, 
 
+Las herramientas y tecnologías utilizadas, pueden dar solución a la problemática en la versión gratuita y en el tiempo estimado.
+
 II. OBJETIVOS
 
+Objetivo general: 
+🎯Agilizar el proceso de creación del prototipo de la interfaz de usuario.
 
+Objetivos específicos:
 🎯 Redactar un mensaje de bienvenida atractivo para la webapp.
 
 🎯 Crear mensajes para indicaciones, notificaciones, decisiones, confirmaciones o para cualquier otro tipo de interacción que requiere ser comprendido por parte del usuario.
@@ -116,7 +121,7 @@ IV. HERRAMIENTAS Y TECNOLOGÍAS
 
 1- Dar contexto ej:"Hola, soy diseñadora UX/UI y estoy realizando una propuesta de proyecto llamada "Más cerca tuyo", que hace referencia a una red social para encontrar, visibilizar y conectar con el servicio para tu hogar que necesites de manera rápida y en tu propia localidad..."
 
-2- Luego, utilizar la técnica de One shoot prompting, entregándole un ejemplo para guiar lo que necesito que me responda.
+2- Luego, utilizar la técnica de One shoot prompting, entregándole un ejemplo para guiar lo que necesito que me responda, y en el caso que no sea efectivo, complementarlo con la técnica de prompts iterativo.
 
 3- Además, de tomar el historial de referencia cuando sea conveniente para guiar de manera más efectiva las respuestas de la IA.
 
@@ -124,7 +129,7 @@ IV. HERRAMIENTAS Y TECNOLOGÍAS
 
 V. IMPLEMENTACIÓN
 
-Imágenes generadas con IA
+Imágenes generadas con IA (ver carpeta de imágenes)
 
 https://scontent.fkna1-1.fna.fbcdn.net/o1/v/t0/f2/m249/AQOPBi_44aSd4XjWmJ-OzD8LE5hvRQYo3KU1W1dGqA0r7vY8KCqIIO7KWTWfOV89DKlmbD2DmxNv2iNv255HD9f_0m7DSKyPJnBUoelFZCcfQDmZ5QNMUu4SI9a1WeI.mp4?_nc_ht=scontent.fkna1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=AdhMHWPJgSiwGzON4QHEZFH8HF4jG6OAr7SSH4FfOOOSh2vwvCV--pNlfzGjPz2Mvzo&ccb=9-4&oh=00_AYCJ-BZZf3D5p3QHm4yYzUPrmnp8P7ZRlvIuWRCzJLwVjQ&oe=67AC89B1&_nc_sid=5b3566
 
