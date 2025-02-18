@@ -81,6 +81,7 @@ Para la intefaz UI
 - "Genera opiniones sobre la satisfacción del servicio recibido y lo fácil e intuitivo que resultó el uso de la plataforma "Más Cerca Tuyo".
     
   -Con Meta:
+  
 - "Imaginen a Camila, quién ofrece servicio de limpieza y aseo en casas particulares"
 - "Andrea tiene hijos pequeños y tiene su casa desordenada"
 - "Imagina un electricista realizando su trabajo en un hogar, y utiliza la aplicación Más Cerca Tuyo, el cual destaca por un mapa geolocalizador", continuación - "podría generarlo en un entorno más hogareño"
@@ -94,9 +95,11 @@ Las herramientas y tecnologías utilizadas, pueden dar solución a la problemát
 II. OBJETIVOS
 
 Objetivo general: 
+
 🎯Agilizar el proceso de creación del prototipo de la interfaz de usuario.
 
 Objetivos específicos:
+
 🎯 Redactar un mensaje de bienvenida atractivo para la webapp.
 
 🎯 Crear mensajes para indicaciones, notificaciones, decisiones, confirmaciones o para cualquier otro tipo de interacción que requiere ser comprendido por parte del usuario.
