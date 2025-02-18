@@ -1,14 +1,20 @@
 <header>
-I. INTRODUCCIÓN
+
+  # Evoluciona: MÁS CERCA TUYO
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+ # Resumen: 
+ Se propone crear un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", con la finalidad de mejorar la comprensión de la interfaz de usuario y la experiencia de interacción. Adicionalmente, se creará material promocional en las redes sociales, para fortalecer el marketing.
 
-# Evolucionando: MÁS CERCA TUYO
+ Para lograrlo se aplicarán herramientas de inteligencia artificial, como ChatGPT para el contenido textual, Meta AI, para generar imágenes y con google.colab se generará contenido para las redes sociales. 
 
+I. INTRODUCCIÓN
+ # Evoluciona: MÁS CERCA TUYO
 *Un servicio del hogar más cerca tuyo.*
 
 </header>
@@ -96,7 +102,7 @@ II. OBJETIVOS
 
 Objetivo general: 
 
-🎯Agilizar el proceso de creación del prototipo de la interfaz de usuario.
+🎯Agilizar el proceso de creación y comprensión del prototipo de la interfaz de usuario.
 
 Objetivos específicos:
 
@@ -106,7 +112,7 @@ Objetivos específicos:
 
 🎯 Incluir imágenes o ilustraciones del contexto de uso de la webapp, que den cuenta de la conexión entre trabajadores y clientes.
 
-🎯 Generar contenido promocional en las redes sobre la webapp “Más Cerca Tuyo” 
+🎯 Generar contenido promocional en las redes sobre la webapp “Más Cerca Tuyo”. 
 
 III. METODOLOGÍA
 
@@ -135,6 +141,12 @@ V. IMPLEMENTACIÓN
 Imágenes generadas con IA (ver carpeta de imágenes)
 
 https://scontent.fkna1-1.fna.fbcdn.net/o1/v/t0/f2/m249/AQOPBi_44aSd4XjWmJ-OzD8LE5hvRQYo3KU1W1dGqA0r7vY8KCqIIO7KWTWfOV89DKlmbD2DmxNv2iNv255HD9f_0m7DSKyPJnBUoelFZCcfQDmZ5QNMUu4SI9a1WeI.mp4?_nc_ht=scontent.fkna1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=AdhMHWPJgSiwGzON4QHEZFH8HF4jG6OAr7SSH4FfOOOSh2vwvCV--pNlfzGjPz2Mvzo&ccb=9-4&oh=00_AYCJ-BZZf3D5p3QHm4yYzUPrmnp8P7ZRlvIuWRCzJLwVjQ&oe=67AC89B1&_nc_sid=5b3566
+
+VI. RESULTADOS
+
+V. CONCLUSIONES
+
+V. REFERENCIAS
 
 <footer>
 
