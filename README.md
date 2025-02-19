@@ -8,7 +8,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
- # Resumen: 
+ RESUMEN:
  Se propone crear un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", con la finalidad de mejorar la comprensión de la interfaz de usuario y la experiencia de interacción. Adicionalmente, se creará material promocional en las redes sociales, para fortalecer el marketing.
 
  Para lograrlo se aplicarán herramientas de inteligencia artificial, como ChatGPT para el contenido textual, Meta AI, para generar imágenes y con google.colab se generará contenido para las redes sociales. 
