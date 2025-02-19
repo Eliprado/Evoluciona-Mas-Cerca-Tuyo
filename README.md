@@ -1,6 +1,6 @@
 <header>
 
-  # Evoluciona: MÁS CERCA TUYO
+  # Evoluciona: Más Cerca Tuyo
 
 <!--
   <<< Author notes: Course header >>>
@@ -14,7 +14,7 @@
  Para lograrlo se aplicarán herramientas de inteligencia artificial, como ChatGPT para el contenido textual, Meta AI, para generar imágenes y con google.colab se generará contenido para las redes sociales. 
 
 I. INTRODUCCIÓN
- # Evoluciona: MÁS CERCA TUYO
+ # Evoluciona: Más Cerca Tuyo
 *Un servicio del hogar más cerca tuyo.*
 
 </header>
@@ -45,7 +45,7 @@ Por ello, es importante agilizar este proceso de creación de contenido escrito 
 
 ## PROPUESTA DE SOLUCIÓN
 
-- Generar un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", que complementen y optimizen la interfaz de usuario, mejorando la experiencia de interacción y su desarrollo.
+- Generar un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", que complementen y optimizen la interfaz de usuario, mejorando la experiencia de interacción y su desarrollo. Beneficiando a usuarios, diseñadores, desarrolladores y QA testers.
 
 Para la intefaz UI
    
@@ -63,8 +63,8 @@ Para la intefaz UI
 - "Crea un flujo de registro y autenticación que sea fácil de seguir y no requiera demasiados pasos."
 
 4. Para guiar al usuario en la búsqueda
-- "Crea un texto para la barra de búsqueda de una plataforma de servicios locales, incentivando a los usuarios a buscar lo que necesitan. Usa un tono amigable y breve."
-- "Genera sugerencias para búsquedas populares en una plataforma de servicios locales. Usa un tono atractivo."
+- "Crea un texto para la barra de búsqueda para la plataforma de servicios locales del hogar, incentivando a los usuarios a buscar lo que necesitan. Usa un tono amigable y muy breve."
+- "Genera sugerencias para búsquedas populares en una plataforma de servicios locales para el hogar. Usa un tono atractivo."
   
 5. Mensaje para resultados de búsqueda
 - "Redacta un mensaje para mostrar los resultados de búsqueda en una plataforma de servicios locales. Si no hay resultados, ofrece alternativas de acción."
@@ -136,7 +136,131 @@ IV. HERRAMIENTAS Y TECNOLOGÍAS
 
 4- En google.colab generar contenido para las redes sociales, utilizando el modelo gpt-4o, con un máximo de tokens=800 y una temperatura de 0.7
 
+5- Para el proyecto final, decidí indicar el punto 1. Generación de contenido con Chat GPT para el final, con el propósito de que la IA, tomé todo el historial conversado anteriormente, y así optimizar mejor su respuesta.
+
 V. IMPLEMENTACIÓN
+
+1- Dar contexto:
+
+Para iniciar el chat con la IA, se entregó en siguiente enunciado contextual en ChatGPT:
+
+Eli: "Hola, soy diseñadora UX/UI y estoy realizando una propuesta de proyecto llamada "Más cerca tuyo", que hace referencia a una red social para encontrar, visibilizar y conectar con el servicio para tu hogar que necesitas de manera rápida y en tu propia localidad. Además de entregar mayor visibilidad a los trabajadores, para aumentar sus oportunidades laborales dentro de su ciudad. En muchas comunidades, la oferta y demanda de servicios para el hogar, como reparaciones, mantenimiento, limpieza y asistencia técnica, suelen estar dispersas y carecen de una plataforma que centralice estas necesidades. Los profesionales locales, tanto formales como informales, enfrentan dificultades para visibilizar sus habilidades y acceder a oportunidades laborales cercanas. Por otro lado, las familias necesitan soluciones rápidas, accesibles y confiables para resolver problemas domésticos, pero a menudo no tienen acceso a una red local de confianza. Este escenario crea una brecha significativa entre quienes necesitan servicios y quienes los ofrecen, dificultando la generación de oportunidades económicas locales y el acceso eficiente a servicios esenciales. Aquí te presentamos la solución "Más Cerca Tuyo" es una aplicación web diseñada para facilitar la conexión entre clientes y trabajadores del sector de servicios para el hogar dentro de una misma localidad. La plataforma permite a los usuarios encontrar y solicitar servicios esenciales de manera rápida y eficiente, al tiempo que brinda mayor visibilidad a los trabajadores, impulsando sus oportunidades laborales a nivel local. Con estos antecedentes, estoy iniciando un nuevo proyecto complementario, basado en indicaciones para generar un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", que complementan y optimizan la interfaz de usuario, mejorando la experiencia de interacción y su desarrollo. Beneficiando a usuarios, diseñadores, desarrolladores y QA tester."
+
+Respuesta IA: "¡Me encanta la idea! Un sistema de indicaciones bien diseñado puede ayudar a mejorar la usabilidad, guiar a los usuarios en sus interacciones y optimizar el desarrollo del producto. ¿Tienes en mente algún enfoque específico para estas indicaciones? ¿Serían orientados a onboarding, asistencia en la navegación, generación de contenido, o algún otro aspecto clave?"
+
+Eli: "Sí, comenzaré a darte algunos antecedentes y prompts"
+
+Respuesta IA: "¡Genial! Compárteme los antecedentes y los tips que tienes en mente, y te ayudaré a refinarlos y estructurarlos para que se integren de la mejor"
+
+Eli: "Además, quiero que sepas que "Más Cerca Tuyo" permite: - La publicación de servicios por parte de trabajadores, ya sean profesionales formales o informales. - La solicitud de servicios por parte de clientes mediante publicaciones o contacto directo. - Un sistema de evaluación para validar la calidad de los servicios ofrecidos. - Sectorización de servicios y trabajos según ubicación y rango definido por el trabajador. - Registro/Inicio de sesión de usuarios mediante credenciales tradicionales y OAuth con Google Firebase".
+
+Respuesta IA: "Gracias por compartir estos detalles. Esto me ayuda a comprender mejor la funcionalidad de la plataforma. ¿Quieres que los avisos estén alineados con estos procesos clave? Por ejemplo, mensajes que guían a los usuarios en la publicación de servicios, en la búsqueda"
+
+Eli: "Comenzaré con el sistema de registro y autenticación, necesito mejorarlo. Este es el relato del flujo: "El usuario Inicia sesión de manera tradicional con correo y contraseña o puede sincronizar su cuenta con OAuth con Google Firebase. En esta pantalla hay 4 opciones: La primera es logearse directamente con correo y contraseña, la segunda opción es sincronizar su cuenta en Google Firebase, la tercera opción es que si olvida su contraseña, puede volver a crearla ingresando un correo de recuperación y luego un código de verificación." Del ejemplo anterior "Crea un flujo de registro y autenticación que sea fácil de seguir y no requiera demasiados pasos".
+
+Respuesta IA: "Aquí tienes un flujo optimizado para el registro y autenticación, manteniendo una experiencia simple e intuitiva:
+
+Flujo de Registro y Autenticación Simplificado
+Pantalla de Bienvenida
+Opción 1: "Iniciar sesión con Google"(Oh
+Opción 2: "Iniciar sesión con correo y contraseña"
+Opción 3: “Crear una cuenta”
+Opción 4: "¿Olvidaste tu contraseña?"
+Flujo de Inicio de Sesión
+Si elige correo y contraseña:
+Campo
+Botón
+De los hombres
+Flujo de Registro (si no tiene cuenta)
+California
+Botón "Registrarme"
+Co
+Mensaje: "Tu cuenta ha sido creada con éxito. Ahora puedes comenzar a explorar Más Cerca Tuyo."
+Recuperación de Contraseña
+Ingresar correo electrónico
+Enviar código de verificación
+Ingresar nueva contraseña
+Confirmación: "Tu contraseña ha sido actualizada".
+Optimización y beneficios
+✅ Menos pasos para completar el proceso
+✅ Opción rápida con Google
+✅ Recuperación de contraseña simplificada
+
+¿Qué te parece este flujo? ¿Quieres que incluya alguna validación o persona?"
+
+Eli: "Me parece bien, pero podrías completar las frases incompletas e incluirme la validación"
+
+Respuesta IA: "¡Por supuesto! Aquí tienes el flujo mejorado con frases completas y validaciones clave para garantizar una experiencia clara y segura para los usuarios.
+
+📌 Flujo de Registro y Autenticación Optimizado
+1. Pantalla de Bienvenida
+El usuario puede elegir entre las siguientes opciones:
+
+"Iniciar sesión con Google" (OAuth con Firebase) → Accede con un solo clic sin necesidad de contraseña.
+"Iniciar sesión con correo y contraseña" → Ingresa manualmente tus credenciales.
+"Crear una cuenta" → Regístrate si aún no tienes una cuenta.
+"¿Olvidaste tu contraseña?" → Recupere el acceso fácilmente.
+2. Flujo de Inicio de Sesión
+🔹 Si el usuario elige correo y contraseña:
+
+Debe ingresar un correo electrónico válido. (✅ Validación: verificando que tenga un formato correcto).
+Debe ingresar su contraseña. (✅ Validación: no permitir campos vacíos).
+Si los datos son correctos, acceda al sistema y es redirigido a la pantalla principal.
+Si los datos son incorrectos: "El correo o la contraseña no son válidos. Inténtalo nuevamente."
+Opción de recuperación: "Si olvidaste tu contraseña, puedes restablecerla aquí".
+3. Flujo de Registro (Si el usuario no tiene cuenta)
+🔹 Formulario de registro:
+
+Nombre completo: (✅ Validación: debe contener al menos 3 caracteres).
+Correo electrónico: (✅ Validación: verificar que sea un correo válido y no esté registrado previamente).
+Contraseña: (✅ Validación: debe tener al menos 8 caracteres, una mayúscula y un número).
+Botón "Registrarme" → Si todos los datos son correctos, se crea la cuenta y se muestra el mensaje:
+"Tu cuenta ha sido creada con éxito. Revisa tu correo para confirmar tu registro."
+Confirmación de correo electrónico (opcional): Se envía un correo con un enlace para activar la cuenta.
+4. Flujo de Recuperación de Contraseña
+🔹 Si el usuario olvida su contraseña:
+
+Ingresa su correo electrónico en el campo correspondiente. (✅ Validación: verificar que el correo esté registrado).
+Se envía un código de verificación al correo. ( ✅ Mensaje: "Te hemos enviado un código de verificación. Revisa tu bandeja de entrada." )
+El usuario introduce el código en la pantalla de recuperación. (✅ Validación: el código debe coincidir con el enviado).
+Luego, ingresa una nueva contraseña. (✅ Validación: mínimo 8 caracteres, incluye mayúsculas y números).
+Si todo es correcto, se muestra el mensaje: "Tu contraseña ha sido actualizada con éxito. Ahora puedes iniciar sesión".
+🛠 Beneficios de este flujo:
+✅ Menos pasos y más claridad para el usuario.
+✅ Autenticación rápida con Google.
+✅ Validaciones para evitar errores y mejorar la seguridad.
+✅ Flujo intuitivo y mensajes claros en cada paso.
+
+¿Qué te parece ahora? ¿Quieres"
+
+Eli: "Con el objetivo de guiar al usuario(a) en la búsqueda, necesito que cree un texto para la barra de búsqueda para la plataforma de servicios locales del hogar, incentivando a los usuarios a buscar lo que necesitan. Usa un tono amigable y muy breve."
+
+Respuesta IA: 🔍 "Encuentra el servicio que necesitas cerca de ti. ¡Escribe aquí y conéctate con expertos locales!"
+
+Eli: "Genera sugerencias para búsquedas populares en una plataforma de servicios locales para el hogar. Usa un tono atractivo."
+
+Respuesta IA: Aquí tienes algunas sugerencias de búsquedas populares con un tono atractivo y amigo.
+
+🔧 "Electricista para una urgencia en casa"
+🧹"Limpieza profunda para mi hogar"
+🚰"Fontanero cerca de mí"
+🛠"Reparación de electrodomésticos"
+🎨 **"Pinta"Pintor para renovar mis paredes"
+🌿"Jardinero para mi patio"
+🚪"Cerrajero disponible ahora"
+📦 **"Ayuda"Ayuda con una mudanza"
+🔨"Carpintero para un mueble a medida"
+🧑"Gasfitero para una instalación rápida"
+
+Estas opciones pueden rotar dinámicamente en la barra de búsqueda para motivar a los usuarios a explorar. ¿Quieres agregar más categorías o ajustar el tono? 😊
+
+
+
+
+
+
+
+
 
 Imágenes generadas con IA (ver carpeta de imágenes)
 
