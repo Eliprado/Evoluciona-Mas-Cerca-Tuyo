@@ -52,9 +52,9 @@ Para la intefaz UI
    -Con Chatgpt:
    
 1. Generación de contenido
-- "Redacta un mensaje de bienvenida atractivo para la plataforma "Más Cerca Tuyo", que conecta servicios locales con clientes. Menciona la facilidad de uso, proximidad y el impacto en la comunidad."
+- "Necesito un mensaje e bienvenida, ¿qué opciones tienes?"
 - "Genera contenido promocional y de valor para enriquecer la experiencia del usuario en la plataforma"
-- "Genera contenido informativo sobre quienes somos, visión y misión de "Más Cerca Tuyo"
+- "Necesito que generes contenido informativo sobre quienes somos, visión y misión de "Más Cerca Tuyo"
   
 2. Notificaciones automáticas
 - "Genera un mensaje de notificación para informar a los usuarios que un trabajador respondió a su solicitud de servicio."
@@ -67,10 +67,10 @@ Para la intefaz UI
 - "Genera sugerencias para búsquedas populares en una plataforma de servicios locales para el hogar. Usa un tono atractivo."
   
 5. Mensaje para resultados de búsqueda
-- "Redacta un mensaje para mostrar los resultados de búsqueda en una plataforma de servicios locales. Si no hay resultados, ofrece alternativas de acción."
+- "Redacta un mensaje para mostrar los resultados de búsqueda para la plataforma de servicios locales del hogar. Si no hay resultados, ofrece alternativas de acción."
 
 6. Instrucciones para filtros
-- "Escribe una descripción para una sección de filtros en una aplicación de búsqueda de servicios. Menciona filtros como distancia, valoración y disponibilidad."
+- "Escribe una descripción para una sección de filtros en una aplicación de búsqueda de servicios para el hogar. Menciona filtros como distancia, valoración y disponibilidad."
 
 7. Comunicación al usuario en tiempo real de espera
 - "Escribe un mensaje para mostrar mientras se cargan los resultados de búsqueda en una plataforma de servicios locales."
@@ -80,8 +80,8 @@ Para la intefaz UI
 
 9. Mensajes predeterminados para la conversación del chat
 - "El cliente puede seleccionar el chat directo con el prestador de servicio para su hogar, para coordinar detalles, antes de contratarlo. ¿Qué me recomiendas como mensajes predeterminados para que un prestador y un solicitante puedan para iniciar una conversación?"
-- "¿Qué otras frases predeterminadas pueden aparecer accesibles de clikear durante la conversación?"
-- "¿Qué otras frases predeterminadas pueden aparecer accesibles de clikear para abordar el soporte técnico: opción de reportar problemas técnicos o disputas y la programación de disponibilidad: calendario visual para gestionar días de trabajo y horarios?"
+- "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear durante la conversación?"
+- "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear para abordar el soporte técnico: opción de reportar problemas técnicos o disputas y la programación de disponibilidad: calendario visual para gestionar días de trabajo y horarios?"
 
 10. Mensajes de testimonios de la comunidad
 - "Genera opiniones sobre la satisfacción del servicio recibido y lo fácil e intuitivo que resultó el uso de la plataforma "Más Cerca Tuyo".
@@ -254,13 +254,248 @@ Respuesta IA: Aquí tienes algunas sugerencias de búsquedas populares con un to
 
 Estas opciones pueden rotar dinámicamente en la barra de búsqueda para motivar a los usuarios a explorar. ¿Quieres agregar más categorías o ajustar el tono? 😊
 
+Eli: "Está bien el tono, quiero que agregues las siguientes categorías: cuidadores de adultos mayores, cuidadores de niños, mascotas, actividad física, alimentación, asesora del hogar, belleza y estética, construcción, control de plagas, educación, eventos, instalación de sistema de seguridad, instalación de artefactos domésticos y la categoría otros."
 
+Respuesta IA: "¡Genial! Aquí tienes las sugerencias ampliadas con las nuevas categorías, manteniendo un tono atractivo y dinámico.
 
+🔧 "Electricista para una urgencia en casa"
+�"Limpieza profunda para mi hogar"
+🚰 **"Fontanero cerca de mí"
+🛠 **"Re"Reparación de electrodomésticos"
+🎨 *"Pintor para renovar mis paredes"
+🌿"Jardinero para mi patio"
+🚪"Cerrajero disponible ahora"
+📦 **"Ayuda con una mudanza"
+🔨 *"Carpintero para un mueble a medida
+""Gasfitero para una instalación rápida"
 
+👵 "Cuidador/a de adultos mayores con experiencia"
+👶 **"Niñera de confianza"Niñera de confianza para mis hijos"
+🐶 **"Pase"Paseador de perros o cuidador de mascotas"
+🏋️"Entrenador personal para mantenerme en forma"
+🥗"Chef a domicilio o comida saludable"
+🏠 **"Asesora del hogar por horas o jornada completa"
+💅 **"Se"Servicio de peluquería y estética a domicilio"
+🏗 **"Ma"Maestro constructor para un proyecto en casa"
+🦟 *"Control de plagas urgente"
+📚"Profesor particular para reforzar estudios"
+🎉 **"Órgano"Organizador de eventos y celebraciones"
+🔒"Instalación de cámaras y alarmas de seguridad"
+🔌 **"Técn"Técnico para instalar electrodomésticos"
+❓ **"Otros servicios: ¡Describe lo que necesitas!"
 
+Estas sugerencias pueden rotarse en la barra de búsqueda para incentivar a los usuarios a explorar opciones. ¿Quieres que agregue algo más o ajuste el orden? 😊"
 
+Eli: "Redacta un mensaje para mostrar los resultados de búsqueda en la plataforma de servicios locales del hogar. Si no hay resultados, ofrece alternativas de acción."
 
+Respuesta IA: "Si hay resultados:
+🔍 "Estos son los servicios disponibles cerca de ti. Encuentra el experto ideal y conéctate al instante".
 
+Si no hay resultados:
+😕 "No encontramos servicios que coincidan con tu búsqueda en este momento."
+
+✨Aquí tienes algunas opciones para continuar:
+
+Intenta con términos más generales o diferentes palabras clave.
+Revisa otras categorías de servicios q
+Publica una solicitud para que los profesionales disponibles puedan contactarte directamente
+
+📢 ¡No te preocupes! Nuevos profesionales se suman cada día. Vuelve a intentarlo pronto. 💡"
+
+Eli: "Para el área de notificaciones automáticas, necesito que generes un mensaje de notificación para informar a los usuarios que un trabajador respondió a su solicitud de servicio."
+
+Respuesta IA: 🔔 "¡Tienes una nueva respuesta! Un trabajador ha respondido a tu solicitud de servicio. Revisa los detalles y conéctate para coordinar lo antes posible."
+
+Eli: "Escribe una descripción para una sección de filtros en una aplicación de búsqueda de servicios para el hogar. Menciona filtros como distancia, valoración y disponibilidad."
+
+Respuesta IA: "🛠 Encuentra el servicio ideal con nuestros filtros
+
+Haz tu búsqueda más precisa utilizando nuestro filtro
+
+📍Distancia : E
+⭐Valoración: F
+📅 **DiDisponibilidad: Sí
+
+💡 Personaliza tu búsqueda y encuentra el servicio perfecto en menos tiempo."
+
+Eli: "Para lograr una comunicación al usuario en tiempo real de espera, necesito que crees un mensaje para mostrar mientras se cargan los resultados de búsqueda en una plataforma de servicios locales para el hogar."
+
+Respuesta IA: ⏳ "Estamos buscando los mejores resultados para ti... Un momento, por favor."
+              💡"Tu servicio ideal está a solo unos segundos de distancia."
+
+Eli: "Me parece bien, pero quiero que sea muy breve."
+
+Respuesta IA: ⏳ "Buscando los mejores servicios para ti..."
+
+Eli: "Para acceder a sugerencias personalizadas es recomendable que el usuario active y actualice su ubicación. Este es el mensaje que incluye en el prototipo: "Actualiza tu ubicación para recibir sugerencias personalizadas cerca de ti". A partir del ejemplo anterior redacta un mensaje que informe al usuario sobre la búsqueda de servicios cerca de su ubicación, destacando la cercanía."
+
+Respuesta IA: 📍 "Encuentra servicios cerca de ti. Activa o actualiza tu ubicación para obtener las mejores opciones en tu zona."
+
+Eli: "El cliente puede seleccionar el chat directo con el prestador de servicio para su hogar, para coordinar detalles, antes de contratarlo. ¿Qué me recomiendas como mensajes predeterminados para que un prestador y un solicitante puedan para iniciar una conversación?"
+
+Respuesta IA: "Aquí tienes algunos mensajes predeterminados para facilitar la conversación entre el solicitante y el presta.
+
+Para el solicitante (cliente):
+"Hola, estoy interesado en tu servicio. ¿Podrías darme más detalles?"
+📅"Hola, necesito este servicio para [día y hora]. ¿Estás disponible?"
+💰 **"Hola, quisiera"Hola, quisiera saber el precio y si incluye materiales en el servicio."
+📍 **"H"Hola, estoy en [ubicación]. ¿Trabajas en esta zona?"
+🤝"Hola, antes de contratar, me gustaría saber más sobre tu experiencia. ¿Podrías contarme un poco?"
+
+Para el prestador de servicio:
+👋 "Hola, gracias por tu mensaje. ¿En qué puedo ayudarte?"
+📅"Hola, estoy disponible para la fecha que necesitas. ¿Qué detalles me puedes dar?"
+💰"Hola, el costo del servicio es [monto]. ¿Te gustaría agendar una cita?"
+📍"Hola, sí, trabajo en [ubicación]. ¿Dónde necesitas el servicio?"
+🔧"Hola, tengo experiencia en este tipo de trabajos. ¿Puedes contarme más sobre lo que necesitas?"
+
+Eli: "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear durante la conversación?"
+
+Respuesta IA: Aquí tienes más frases predeterminadas que pueden aparecer como opciones rápidas para agilizar la conversación entre el solicitante y el prestador.
+
+Para el solicitante (cliente):
+📌 "¿Cuánto tiempo tomará el servicio?"
+💵"¿Cuál es el costo total?"
+📆"¿Cuándo podrías realizar el trabajo?"
+📍 **"¿Puedes venir a mi ubicación?"
+🔍"¿Tienes fotos o referencias de trabajos anteriores?"
+📄"¿Ofreces garantía por el servicio?"
+🤝 **"¿"¿Cómo podemos coordinar el pago?"
+
+Para el prestador de servicio:
+🛠 "Estos son los servicios que ofrezco: [Lista de servicios]"
+📅"Estoy disponible en [día y hora]. ¿Te viene bien?"
+📍"Trabajo en [zona/localidad]. ¿Dónde necesitas el servicio?"
+💰"El precio aproximado es [monto], pero podemos ajustarlo según los detalles."
+🔧 **"¿Puedes darme más información sobre lo que necesitas?"
+📞 **"Sí"Si lo prefieres, podemos coordinar por llamada o videollamada."
+
+Eli: "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear para abordar el soporte técnico: opción de reportar problemas técnicos o disputas y la programación de disponibilidad: calendario visual para gestionar días de trabajo y horarios?"
+
+Respuesta IA: Aquí tienes frases predeterminadas para abordar soporte técnico y gestión de disponibilidad dentro de la plataforma:
+
+📩 Soporte Técnico (Reportar Problemas o Disputas)
+🚨 "Tengo un problema técnico con la plataforma."
+⚠️ "Quiero reportar un error en mi cuenta."
+❌ "No puedo completar mi solicitud de servicio."
+🔄 "El chat no está funcionando correctamente."
+👤 "Quiero reportar a un usuario por conducta inapropiada."
+💬 "Tengo un problema con un pago o cobro."
+🔎 "No encuentro un servicio que necesito."
+📞 "Necesito contactar al soporte técnico."
+
+📅 Programación de Disponibilidad (Calendario de Trabajo)
+✅ "Actualizar mi disponibilidad para esta semana."
+🕒 "Modificar mi horario de trabajo."
+📅 "Agregar nuevos días de atención."
+⏳ "Marcarme como ocupado en ciertos horarios."
+🔔 "Activar recordatorios para mis citas programadas".
+🔄 "Sincronizar mi calendario con otras aplicaciones."
+❌ "Cancelar una cita programada".
+
+Estas frases pueden mostrarse como accesos rápidos en las secciones correspondientes, facilitando la gestión sin necesidad de escribir manualmente."
+
+Eli: "Genera opiniones sobre la satisfacción del servicio recibido y lo fácil e intuitivo que resultó el uso de la plataforma "Más Cerca Tuyo".
+
+Respuesta IA: "Aquí tienes algunas opiniones que reflejan la satisfacción con el servicio recibido y la facilidad de uso de la plataforma "Más Cerca Tuyo":
+
+Opiniones sobre el servicio recibido:
+⭐ "Excelente servicio, encontré un profesional rápido y solucionó mi problema sin inconvenientes. ¡Muy recomendado!"
+⭐ "Me encantó la rapidez con la que pude contactar a un especialista. Todo fue claro y el trabajo quedó impecable."
+⭐ "Muy buena experiencia. El proveedor fue puntual, profesional y el precio justo. Sin duda volveré a usar la plataforma."
+⭐ "La posibilidad de leer opiniones y ver valoraciones me ayudó a elegir a la persona indicada. ¡Un 10 en confiabilidad!"
+⭐ "Encontré justo lo que necesitaba en minutos. La comunicación con el trabajador fue rápida y efectiva."
+
+Opiniones sobre la facilidad de uso de la plataforma:
+💡 "La plataforma es súper intuitiva, en pocos pasos encontré el servicio que necesitaba."
+💡 "Me gustó lo fácil que es filtrar por ubicación y valoración. Muy práctico y eficiente."
+💡 "El chat directo con el proveedor de servicio es una gran ventaja. Todo se gestiona sin complicaciones."
+💡 "Crear mi solicitud fue sencillo y rápido. Me respondieron en poco tiempo y resolvieron mi problema."
+💡 "La interfaz es clara y amigable, incluso para quienes no estamos acostumbrados a usar este tipo de plataformas".
+
+Estas opiniones pueden usarse en testimonios de usuarios, encuestas de satisfacción o valoraciones dentro de l.
+
+Eli: "Necesito un mensaje e bienvenida, ¿qué opciones tienes?"
+
+Respuesta IA: "Aquí tienes algunas opciones de mensaje de bienvenida para "Más Cerca Tuyo" , con d
+
+1. Cálido y amigable:
+👋 "¡Bienvenido/aa Más Cerca Tuyo! Encuentra el servicio que necesitas en tu localidad de forma rápida y segura. Estamos aquí para conectarte con los mejores profesionales cerca de ti. ¡Comienza ahora!"
+
+2. Directo y funcional:
+📍 "¡Hola! En Más Cerca Tuyo puedes encontrar y contactar fácilmente a expertos en servicios para el hogar. Usa la barra de búsqueda o explora las categorías y descubre soluciones cerca de ti."
+
+3. Motivador y confiable:
+✨ "Tu tiempo es valioso, y en Más Cerca Tuyo hacemos que encontrar ayuda sea fácil. Conecta con profesionales de confianza en tu zona y resuelve tus necesidades con rapidez y seguridad. ¡Empieza a explorar!"
+
+4. Breve y conciso:
+🔎 "Bienvenido/aa Más Cerca Tuyo. Encuentra, contacta y contrata servicios en tu comunidad en pocos pasos. ¡Comienza tu búsqueda ahora!"
+
+¿Te gustaría ajustar alguno"
+
+Eli: "No. Genera contenido promocional y de valor para enriquecer la experiencia del usuario en la plataforma"
+
+Respuesta IA: "📢 Contenido promocional
+1. Ofertas y descuentos especiales
+"¡Aprovecha nuestras ofertas exclusivas! Encuentra los mejores servicios para tu hogar con descuentos especiales por tiempo limitado. 🔥 ¡No te lo pierdas!"
+
+2. Beneficios de usar la plataforma
+✅ "¿Por qué elegir Más Cerca Tuyo?
+
+Encuentro
+Contacta y coordina fácilmente desde tu ce
+Consulta valoraciones y opiniones antes de contratar.
+💡 *¡Prueba la experiencia y descubre la comodidad de tener soluciones a un clic!"
+3. Testimonios de usuarios satisfechos
+💬 "María encontró en minutos un electricista confiable para su hogar. ¿Y tú? Descubre lo fácil que es conectar con expertos cerca de ti."
+
+4. Concursos y sorteos
+🎁 "¡Gana un servicio gratis para tu hogar! Participa en nuestro sorteo mensual y disfruta de una experiencia sin costo con los mejores profesionales de tu zona. 🚀 ¡Regístrate ahora!"
+
+📚 Contenido de Valor
+1. Consejos y guías prácticas
+🛠 "¿Cómo elegir el mejor profesional para tu hogar?
+
+Verificar
+Comparar presupuesto
+Aclara dudas a través del chat antes de contratar.
+💡 **¡Sig¡Siguiendo estos pasos, aseguras un servicio de calidad!"
+2. Recomendaciones de mantenimiento para el hogar
+🏡 "5 consejos para mantener tu hogar en perfecto estado"
+
+Limpie los filtros de aire acondicionado cada 3 meses.
+Revise el sistema eléctrico al menos una vez al año.
+Utilice productos adecuados para cada tipo de superficie.
+Realiza pequeñas reparaciones antes de que sean un problema mayor.
+Confía en profesionales locales para trabajos especializados.
+3. Historias de éxito de trabajadores y clientes
+💼 "Pedro, plomero, aumentó sus clientes gracias a Más Cerca Tuyo. Conectamos a expertos con personas que realmente los necesitan. 🚀 ¡Súmate a nuestra comunidad!"
+
+4. Seguridad y confianza al contratar un servicio
+🔒 "¿Cómo asegurarte de que un profesional es confiable?"
+
+Lee las opiniones de otros usuarios.
+Contacta y resuelve dudas antes de contratar.
+Pide referencias o trabajos anteriores.
+Utilice siempre los canales oficiales de la plataforma.
+Este tipo de contenido mejora la experiencia del usuario, fomenta la confianza en la plataforma y promueve la interacción. ¿Quieres que ajustar el enfoque o incluir algún otro tipo de contenido? 😊"
+
+Eli: No por ahora. Necesito que generes contenido informativo sobre quienes somos, visión y misión de "Más Cerca Tuyo"
+
+Respuesta IA: Aquí tienes el contenido informativo para la sección "Quiénes somos" , junto con la visión y misión de Más Cerca Tuyo :
+
+📍 Quienes somos
+En Más Cerca Tuyo , creemos en la importancia de conectar personas dentro de sus propias comunidades. Somos una plataforma diseñada para facilitar el acceso a servicios esenciales para el hogar, permitiendo que los trabajadores locales encuentren nuevas oportunidades laborales y que los clientes descubran soluciones rápidas y confiables cerca de ellos.
+
+Nuestra misión es impulsar la economía local, ofreciendo un espacio seguro y eficiente donde profesionales y familias puedan conectarse de manera directa y transparente.
+
+🎯 Nuestra visión
+Ser la plataforma líder en la conexión de servicios locales para el hogar, fomentando la confianza, la accesibilidad y el crecimiento de las economías comunitarias. Buscamos transformar la manera en que las personas encuentran y contratan servicios, creando un ecosistema digital que beneficia tanto a trabajadores como a clientes.
+
+🚀 Nuestra misión
+Facilitar la conexión entre quienes necesitan un servicio para el hogar y quienes lo ofrecen, promoviendo la proximidad, la confiabilidad y la visibilidad de los trabajadores locales. Queremos que encontrar ayuda sea un proceso ágil, seguro y justo, mejorando la calidad de vida en cada comunidad.
+
+¿Te gustaría ajustar el tono o agregar algún detalle específico? 😊"
 
 Imágenes generadas con IA (ver carpeta de imágenes)
 
