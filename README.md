@@ -35,7 +35,7 @@ Los profesionales locales, tanto formales como informales, enfrentan dificultade
 
 Este escenario crea una brecha significativa entre quienes necesitan servicios y quienes los ofrecen, dificultando la generación de oportunidades económicas locales y el acceso eficiente a servicios esenciales.
 
-Aquí te presento la solución "Más Cerca Tuyo" es una webapp diseñada para facilitar la conexión entre clientes y trabajadores del sector de servicios para el hogar dentro de una misma localidad. La plataforma permite a los usuarios encontrar y solicitar servicios esenciales de manera rápida y eficiente, al tiempo que brinda mayor visibilidad a los trabajadores, impulsando sus oportunidades laborales a nivel local. 
+Aquí tienes la solución "Más Cerca Tuyo" es una webapp diseñada para facilitar la conexión entre clientes y trabajadores del sector de servicios para el hogar dentro de una misma localidad. La plataforma permite a los usuarios encontrar y solicitar servicios esenciales de manera rápida y eficiente, al tiempo que brinda mayor visibilidad a los trabajadores, impulsando sus oportunidades laborales a nivel local. 
 
 ## PRESENTACIÓN PROBLEMÁTICA
 
