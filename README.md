@@ -80,7 +80,7 @@ Para la intefaz UI
 
 9. Mensajes predeterminados para la conversación del chat
 - "El cliente puede seleccionar el chat directo con el prestador de servicio para su hogar, para coordinar detalles, antes de contratarlo. ¿Qué me recomiendas como mensajes predeterminados para que un prestador y un solicitante puedan para iniciar una conversación?"
-- "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear durante la conversación?"
+- "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear durante la conversación?. Si es necesario oculta los datos sensibles"
 - "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear para abordar el soporte técnico: opción de reportar problemas técnicos o disputas y la programación de disponibilidad: calendario visual para gestionar días de trabajo y horarios?"
 
 10. Mensajes de testimonios de la comunidad
