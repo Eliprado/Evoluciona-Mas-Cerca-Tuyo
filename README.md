@@ -530,23 +530,25 @@ Estas opiniones pueden usarse en testimonios de usuarios, encuestas de satisfacc
 
 Eli: "Necesito un mensaje e bienvenida, ¿qué opciones tienes?"
 
-Respuesta IA: "Aquí tienes algunas opciones de mensaje de bienvenida para "Más Cerca Tuyo" , con d
+Respuesta IA: Aquí tienes algunas opciones de mensaje de bienvenida para "Más Cerca Tuyo" , con distintos tonos:
 
 1. Cálido y amigable:
    
-👋 "¡Bienvenido/aa Más Cerca Tuyo! Encuentra el servicio que necesitas en tu localidad de forma rápida y segura. Estamos aquí para conectarte con los mejores profesionales cerca de ti. ¡Comienza ahora!"
+👋 "¡Bienvenido/a a Más Cerca Tuyo! Encuentra el servicio que necesitas en tu localidad de forma rápida y segura. Estamos aquí para conectarte con los mejores profesionales cerca de ti. ¡Comienza ahora!"
 
-3. Directo y funcional:
+2. Directo y funcional:
    
 📍 "¡Hola! En Más Cerca Tuyo puedes encontrar y contactar fácilmente a expertos en servicios para el hogar. Usa la barra de búsqueda o explora las categorías y descubre soluciones cerca de ti."
 
-5. Motivador y confiable:
+3. Motivador y confiable:
+ 
 ✨ "Tu tiempo es valioso, y en Más Cerca Tuyo hacemos que encontrar ayuda sea fácil. Conecta con profesionales de confianza en tu zona y resuelve tus necesidades con rapidez y seguridad. ¡Empieza a explorar!"
 
-6. Breve y conciso:
+4. Breve y conciso:
+   
 🔎 "Bienvenido/aa Más Cerca Tuyo. Encuentra, contacta y contrata servicios en tu comunidad en pocos pasos. ¡Comienza tu búsqueda ahora!"
 
-¿Te gustaría ajustar alguno"
+¿Te gustaría ajustar alguno o que incorpore otro enfoque? 😊
 
 Eli: "No. Genera contenido promocional y de valor para enriquecer la experiencia del usuario en la plataforma"
 
