@@ -386,7 +386,7 @@ Eli: "Para lograr una comunicación al usuario en tiempo real de espera, necesit
 
 Respuesta IA: ⏳ "Estamos buscando los mejores resultados para ti... Un momento, por favor."
 
-              💡"Tu servicio ideal está a solo unos segundos de distancia."
+              💡 "Tu servicio ideal está a solo unos segundos de distancia."
 
 Eli: "Me parece bien, pero quiero que sea muy breve."
 
