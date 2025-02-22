@@ -658,9 +658,6 @@ Imágenes generadas con IA
 
 4-"Imagina a un instalador de aire acondicionado en un entorno hogareño, utilizando una aplicación que se caracteriza por un mapa geolocalizador"
 
-
-https://scontent.fkna1-1.fna.fbcdn.net/o1/v/t0/f2/m249/AQOPBi_44aSd4XjWmJ-OzD8LE5hvRQYo3KU1W1dGqA0r7vY8KCqIIO7KWTWfOV89DKlmbD2DmxNv2iNv255HD9f_0m7DSKyPJnBUoelFZCcfQDmZ5QNMUu4SI9a1WeI.mp4?_nc_ht=scontent.fkna1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=AdhMHWPJgSiwGzON4QHEZFH8HF4jG6OAr7SSH4FfOOOSh2vwvCV--pNlfzGjPz2Mvzo&ccb=9-4&oh=00_AYCJ-BZZf3D5p3QHm4yYzUPrmnp8P7ZRlvIuWRCzJLwVjQ&oe=67AC89B1&_nc_sid=5b3566
-
 VI. RESULTADOS
 
 V. CONCLUSIONES
