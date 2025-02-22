@@ -552,22 +552,28 @@ Respuesta IA: Aquí tienes algunas opciones de mensaje de bienvenida para "Más 
 
 Eli: "No. Genera contenido promocional y de valor para enriquecer la experiencia del usuario en la plataforma"
 
-Respuesta IA: "📢 Contenido promocional
+Respuesta IA: "Aquí tienes algunas ideas de contenido promocional y de valor para enriquecer la experiencia del usuario en "Más Cerca Tuyo" :
+
+📢 Contenido promocional
 
 1. Ofertas y descuentos especiales
    
-"¡Aprovecha nuestras ofertas exclusivas! Encuentra los mejores servicios para tu hogar con descuentos especiales por tiempo limitado. 🔥 ¡No te lo pierdas!"
+🎉 "¡Aprovecha nuestras ofertas exclusivas! Encuentra los mejores servicios para tu hogar con descuentos especiales por tiempo limitado. 🔥 ¡No te lo pierdas!"
 
-3. Beneficios de usar la plataforma
+2. Beneficios de usar la plataforma
    
 ✅ "¿Por qué elegir Más Cerca Tuyo?
 
-Encuentro
+Encuentra profesionales confiables en tu zona.
 
-Contacta y coordina fácilmente desde tu ce
+Contacta y coordina fácilmente desde tu celular.
+
 Consulta valoraciones y opiniones antes de contratar.
-💡 *¡Prueba la experiencia y descubre la comodidad de tener soluciones a un clic!"
+
+💡 ¡Prueba la experiencia y descubre la comodidad de tener soluciones a un clic!
+
 3. Testimonios de usuarios satisfechos
+   
 💬 "María encontró en minutos un electricista confiable para su hogar. ¿Y tú? Descubre lo fácil que es conectar con expertos cerca de ti."
 
 4. Concursos y sorteos
@@ -580,13 +586,13 @@ Consulta valoraciones y opiniones antes de contratar.
    
 🛠 "¿Cómo elegir el mejor profesional para tu hogar?
 
-Verificar
+Verifica su perfil y valoraciones.
 
-Comparar presupuesto
+Compara presupuestos y tiempos de entrega.
 
 Aclara dudas a través del chat antes de contratar.
 
-💡 **¡Sig¡Siguiendo estos pasos, aseguras un servicio de calidad!"
+💡 ¡Siguiendo estos pasos, aseguras un servicio de calidad!"
 
 2. Recomendaciones de mantenimiento para el hogar
    
@@ -606,7 +612,7 @@ Confía en profesionales locales para trabajos especializados.
    
 💼 "Pedro, plomero, aumentó sus clientes gracias a Más Cerca Tuyo. Conectamos a expertos con personas que realmente los necesitan. 🚀 ¡Súmate a nuestra comunidad!"
 
-5. Seguridad y confianza al contratar un servicio
+4. Seguridad y confianza al contratar un servicio
    
 🔒 "¿Cómo asegurarte de que un profesional es confiable?"
 
