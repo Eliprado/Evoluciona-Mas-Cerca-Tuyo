@@ -140,7 +140,7 @@ IV. HERRAMIENTAS Y TECNOLOGÍAS
 
 V. IMPLEMENTACIÓN
 
-1- Dar contexto:
+Contexto:
 
 Para iniciar el chat con la IA, se entregó en siguiente enunciado contextual en ChatGPT:
 
