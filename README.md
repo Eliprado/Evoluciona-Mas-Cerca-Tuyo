@@ -646,7 +646,7 @@ Facilitar la conexión entre quienes necesitan un servicio para el hogar y quien
 
 ¿Te gustaría ajustar el tono o agregar algún detalle específico? 😊"
 
-Imágenes generadas con IA 
+Imágenes generadas con IA(Ver imágenes en Figma, enlace en referencias)
 
  -Con Meta:
  
@@ -658,7 +658,33 @@ Imágenes generadas con IA
 
 4-"Imagina a un instalador de aire acondicionado en un entorno hogareño, utilizando una aplicación que se caracteriza por un mapa geolocalizador"
 
-5.Generador de caras aleatorias Indicando: "Género: Femenino, Edad: 26-35 años, Etnia: Blanco"
+5-Generador de caras aleatorias Indicando: "Género: Femenino, Edad: 26-35 años, Etnia: Blanco"
+
+6-Genera una imagen de Pedro, plomero, aumentó sus clientes gracias a la aplicación Más Cerca Tuyo. Sitúalo en un entrono hogareño.
+
+7-Imagen de María, quién encontró en minutos un constructor confiable para su hogar.
+
+8-Instalación de cámaras y alarmas de seguridad.
+
+9-Profesor particular para reforzar estudios en casa.
+
+10-Control de plagas urgente para el hogar.
+
+11-El chat directo con el prestador de servicio en el celular. Todo se gestiona sin complicaciones, en un entorno hogareño.
+
+12-Servicio de peluquería y estética a domicilio.
+
+13-Paseador de perros o cuidador de mascotas.
+
+14-Niñera de confianza para mis hijos.
+
+15-Cuidador/a de adultos mayores con experiencia.
+
+16-Jardinero para mi patio.
+
+17-Pintor para renovar las paredes.
+
+18-Reparador de electrodomésticos en el hogar
 
 VI. RESULTADOS
 
