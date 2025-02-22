@@ -684,7 +684,7 @@ Imágenes generadas con IA(Ver imágenes en Figma, enlace en referencias)
 
 17-Pintor para renovar las paredes.
 
-18-Reparador de electrodomésticos en el hogar
+18-Reparador de electrodomésticos en el hogar.
 
 VI. RESULTADOS
 
