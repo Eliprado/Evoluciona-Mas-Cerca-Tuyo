@@ -660,6 +660,8 @@ Imágenes generadas con IA
 
 VI. RESULTADOS
 
+El uso de herramientas de Inteligencia Artificial agilizó significativamente la creación del prototipo de interfaz de usuario. Además, optimizó la experiencia del usuario al proporcionarle un lenguaje más claro, cercano, directo y amigable. Esto favoreció un diseño consistente, comprensible y escalable, mejorando la navegación en la plataforma y facilitando su aplicación en las pruebas de usabilidad.
+
 V. CONCLUSIONES
 
 V. REFERENCIAS
