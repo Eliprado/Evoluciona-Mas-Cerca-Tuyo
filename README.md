@@ -207,7 +207,7 @@ El usuario puede elegir entre las siguientes opciones:
 "¿Olvidaste tu contraseña?" → Recupere el acceso fácilmente.
 
 2. Flujo de Inicio de Sesión
-3. 
+   
 🔹 Si el usuario elige correo y contraseña:
 
 Debe ingresar un correo electrónico válido. (✅ Validación: verificando que tenga un formato correcto).
