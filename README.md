@@ -9,7 +9,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
  RESUMEN:
- Se propone crear un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", con la finalidad de mejorar la comprensión de la interfaz de usuario y la experiencia de interacción. Adicionalmente, se creará material promocional en las redes sociales, para fortalecer el marketing.
+ Se propone crear un sistema de recursos comunicacionales para la webapp "Más Cerca Tuyo", con el propósito de mejorar la comprensión de la interfaz de usuario y la experiencia de interacción. Adicionalmente, se creará material promocional en las redes sociales, para fortalecer el marketing.
 
  Para lograrlo se aplicarán herramientas de inteligencia artificial, como ChatGPT para el contenido textual, Meta AI, para generar imágenes y con google.colab se generará contenido para las redes sociales. 
 
@@ -658,6 +658,8 @@ Imágenes generadas con IA
 
 4-"Imagina a un instalador de aire acondicionado en un entorno hogareño, utilizando una aplicación que se caracteriza por un mapa geolocalizador"
 
+5.Generador de caras aleatorias Indicando: "Género: Femenino, Edad: 26-35 años, Etnia: Blanco"
+
 VI. RESULTADOS
 
 El uso de herramientas de Inteligencia Artificial agilizó significativamente la creación del prototipo de interfaz de usuario. Además, optimizó la experiencia del usuario al proporcionarle un lenguaje más claro, cercano, directo y amigable. Esto favoreció un diseño consistente, comprensible y escalable, mejorando la navegación en la plataforma y facilitando su aplicación en las pruebas de usabilidad.
@@ -670,8 +672,13 @@ La implementación de prompts y la Inteligencia Artificial es un avance clave pa
 
 La IA potencia el proceso creativo, porque permite visualizar errores no considerados y fortalecer las ideas creativas.
 
-V. REFERENCIAS
+VI. ANEXO
 
+Revisar el siguiente Google colab https://colab.research.google.com/drive/1mSHMrC268d9rrEox2fnA2eZCjqo-OC73?usp=sharing
+
+V. REFERENCIAS
+https://www.figma.com/community/file/1467229355570960843
+Encontrará el prototipo de "Más Cerca Tuyo", y en la página de "Imágenes" están las imágenes generadas con meta. ai.
 
 <footer>
 
