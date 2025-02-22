@@ -664,7 +664,14 @@ El uso de herramientas de Inteligencia Artificial agilizó significativamente la
 
 V. CONCLUSIONES
 
+Un sistema de recursos comunicacionales con IA permite un ux writhing más fluído y coherente, entregando automizaciones de respuestas, para asistir y guiar la conversación del usuario, impactando en la confianza y credibilidad del producto digital a nivel de contenido visual y escrito. Además, una interfaz bien estructurada y comprensible facilita la interpretación de la plataforma por parte del público objetivo, desarrolladores, probadores de calidad, e inclusive por otros diseñadores, permite reducir errores y una mayor escabilidad, para futuras actualizaciones o extensiones. 
+
+La implementación de prompts y la Inteligencia Artificial es un avance clave para modernizar los modelos de trabajo de los diseñadores UX/UI, para una comunicación y sincronización efectiva con otros actoress claves del proceso.
+
+La IA potencia el proceso creativo, porque permite visualizar errores no considerados y fortalecer las ideas creativas.
+
 V. REFERENCIAS
+
 
 <footer>
 
