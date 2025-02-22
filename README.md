@@ -654,7 +654,6 @@ Imágenes generadas con IA
 
 2-"Andrea tiene hijos pequeños y tiene su casa desordenada"
 
-
 3-"Imagina un electricista realizando su trabajo en un hogar, y utiliza la aplicación Más Cerca Tuyo, el cual destaca por un mapa geolocalizador", continuación -"podría generarlo en un entorno más hogareño"
 
 4-"Imagina a un instalador de aire acondicionado en un entorno hogareño, utilizando una aplicación que se caracteriza por un mapa geolocalizador"
