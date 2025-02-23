@@ -707,5 +707,96 @@ https://www.figma.com/community/file/1467229355570960843
 Encontrará el prototipo de "Más Cerca Tuyo", y en la página de "Imágenes" están las imágenes generadas con meta. ai.
 
 <footer>
+pip install openai==0.28
+import openai
+# Imprimir cada respuesta obtenida
+for i, choice in enumerate(cliente["choices"]):
+    print(f"Respuesta {i + 1}:\n{choice['message']['content']}\n{'-' * 40}")
 
+
+# Solicitar prompt al usuario
+prompt = input("¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear durante la conversación?. Si es necesario oculta los datos sensibles")
+
+# Llamado a la API solicitando múltiples respuestas
+cliente = openai.ChatCompletion.create(
+    model="gpt-4",
+      messages=[
+        {"role": "user", "content": prompt}
+        ],
+
+    n=10
+)
+
+# Imprimir cada respuesta obtenida
+for i, choice in enumerate(cliente.choices):
+    print(f"Respuesta {i + 1}:\n{choice.message['content']}\n{'-' * 40}")
+
+# Solicitar prompt al usuario
+prompt = input("""Genera opiniones sobre la satisfacción del servicio recibido y lo fácil e intuitivo que resultó el uso de la plataforma Más Cerca Tuyo"""),
+
+# Llamado a la API solicitando múltiples respuestas
+cliente = openai.ChatCompletion.create(
+    model="gpt-4",
+    messages=[
+        {"role": "user", "content": prompt}
+        ],
+
+    n=10
+)
+
+# Imprimir cada respuesta obtenida
+for i, choice in enumerate(cliente.choices):
+    print(f"Respuesta {i + 1}:\n{choice.message['content']}\n{'-' * 40}")
+
+# Llamados a la función con diferentes preguntas
+generar_respuestas("¿Qué mensajes predeterminados deberían aparecer en un chat entre cliente y prestador?")
+generar_respuestas("¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear durante la conversación?")
+generar_respuestas("Genera opiniones sobre la satisfacción del servicio recibido.")
+def generar_contenido_social(tema, plataforma ="all", tono = "profesional"):
+  limites = {
+    "instagram": 2200,
+    "linkedin": 3000,
+    "facebook": 63206
+}
+
+prompts = {
+    "instagram": f"Genera una descripción atractiva para Instagram sobre {tema}. Máximo {limites['instagram']} caracteres. Incluye un título descriptivo y hashtags relevantes.",
+    "linkedin": f"Escribe una publicación profesional para LinkedIn sobre {tema}. Máximo {limites['linkedin']} caracteres. Incluye llamados a la acción.",
+    "facebook": f"Crea una publicación engaging para Facebook sobre {tema}. Máximo {limites['facebook']} caracteres. Incluye una pregunta para generar feedback.",
+}
+
+contenido_generado = {}
+
+   plataformas_objetivo = ["instagram", "linkedin", "facebook"] if plataforma == "all" else [plataforma]
+
+
+import openai
+
+openai.api_key = ""  # Clave de OpenAI
+
+for plat in plataformas_objetivo:
+    prompt = prompts[plat]
+
+# Solicitando a la API múltiples respuestas
+    cliente = openai.ChatCompletion.create(
+        model="gpt-4o",
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        max_tokens=500,
+        temperature=0.7,
+        n=3
+    )
+
+   contenido_generado[plat] = [choice["message"]["content"] for choice in cliente["choices"]]
+
+# Imprimir cada respuesta obtenida
+for plat, respuestas in contenido_generado.items():
+    print(f"--- Publicaciones para {plat.capitalize()} ---")
+    for i, respuesta in enumerate(respuestas):
+        print(f"Respuesta {i + 1}:\n{respuesta}\n{'-' * 40}")
+        generar_contenido_social("La importancia de un sistema de recursos comunicacionales en pruebas de usabilidad y su impacto en el diseño UX/UI", "all", "profesional")
 </footer>
