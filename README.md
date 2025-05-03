@@ -52,7 +52,7 @@ Para la intefaz UI
    -Con Chatgpt:
    
 1. Generación de contenido
-- "Necesito un mensaje e bienvenida, ¿qué opciones tienes?"
+- "Necesito un mensaje de bienvenida, ¿qué opciones tienes?"
 - "Genera contenido promocional y de valor para enriquecer la experiencia del usuario en la plataforma"
 - "Necesito que generes contenido informativo sobre quienes somos, visión y misión de "Más Cerca Tuyo"
   
@@ -79,7 +79,7 @@ Para la intefaz UI
 - "Redacta un mensaje que informe al usuario sobre la búsqueda de servicios cerca de su ubicación, destacando la cercanía."
 
 9. Mensajes predeterminados para la conversación del chat
-- "El cliente puede seleccionar el chat directo con el prestador de servicio para su hogar, para coordinar detalles, antes de contratarlo. ¿Qué me recomiendas como mensajes predeterminados para que un prestador y un solicitante puedan para iniciar una conversación?"
+- "El cliente puede seleccionar el chat directo con el prestador de servicio para su hogar, para coordinar detalles, antes de contratarlo. ¿Qué me recomiendas como mensajes predeterminados para que un prestador y un solicitante puedan iniciar una conversación?"
 - "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear durante la conversación?. Si es necesario oculta los datos sensibles"
 - "¿Qué otras frases predeterminadas pueden aparecer accesibles de cliquear para abordar el soporte técnico: opción de reportar problemas técnicos o disputas y la programación de disponibilidad: calendario visual para gestionar días de trabajo y horarios?"
 
